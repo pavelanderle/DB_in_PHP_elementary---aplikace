@@ -1,0 +1,1 @@
+// delete student from DB by id
